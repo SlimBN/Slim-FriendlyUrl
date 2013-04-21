@@ -2,7 +2,7 @@
 require File.expand_path("../lib/friendly_id/version", __FILE__)
 
 Gem::Specification.new do |s|
-  s.name              = "friendly_id"
+  s.name              = "Slim-FriendlyUrl"
   s.version           = FriendlyId::VERSION
   s.authors           = ["Norman Clarke", "Philip Arndt"]
   s.email             = ["norman@njclarke.com", "parndt@gmail.com"]
